@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp
     spec="1.0+"
-    codebase="http://smp.sfc.keio.ac.jp/sess/2009/03/31"
+    codebase="http://sess2009.defrag.works"
     href="Editor.jnlp">
   <information>
     <title>KantanEditor</title>
