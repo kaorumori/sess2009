@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp
     spec="1.0+"
-    codebase="https://sess2009.defrag.works"
+    codebase="http://sess2009.defrag.works"
     href="Reader.jnlp">
   <information>
     <title>KantanReader</title>
